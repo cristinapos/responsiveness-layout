@@ -278,6 +278,7 @@ footer {
 }
 
 /*Design for mobile*/
+/* mai sunt cateva detalii de layout, in pricipal dimensiuni si spatieri de revazut pe mobile, ti-am atasat si un screenshot,,sunt detalii marunte dar fac diferenta pt userii nostri */
 @media (max-width: 784px) {
     main {
         background: white;
@@ -296,6 +297,7 @@ footer {
         width: 100%;
         justify-content: center;
     }
+    /* iti recomand sa stergi selectiile goale din cod, nu are rost sa le tii aici daca nu le folosesti si iti incarca inutil codul */
     .img-logo {
     }
 
@@ -309,6 +311,7 @@ footer {
         background-color: #ebeff2;
     }
 
+    /* adaug aici in plus la ce am scris pe randul 300, ce nu functioneaza cum te astepti sa te obisnuiest sa stergi, in loc sa comentezi doar */
     /* .img-logo {
         box-shadow: 0 0 0 2em #F4AAB9;
     } */
