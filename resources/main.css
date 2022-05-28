@@ -296,6 +296,7 @@ footer {
 }
 
 /*Design for mobile*/
+/* mai sunt cateva detalii de layout, in pricipal dimensiuni si spatieri de revazut pe mobile, ti-am atasat si un screenshot,,sunt detalii marunte dar fac diferenta pt userii nostri */
 @media (max-width: 784px) {
     main {
         background: white;
@@ -314,6 +315,7 @@ footer {
         width: 100%;
         justify-content: center;
     }
+
     .img-logo {
         position: relative;
     }
